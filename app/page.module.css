@@ -1,5 +1,11 @@
 .container{
     background-color: #150E28;
     min-height: 100vh;
-    overflow-x: hidden;
+    overflow: hidden;
+}
+
+.container .height{
+    height: 100vh;
+    width: 100vh;
+    border: 1px solid red;
 }

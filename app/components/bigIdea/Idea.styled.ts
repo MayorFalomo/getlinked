@@ -1,7 +1,7 @@
 import styled from 'styled-components';
 
 export const IdeaStyle = styled.div`
-        border-bottom: 1px solid  rgb(47, 51, 54, 0.4);
+    border-bottom: 1px solid  rgb(47, 51, 54, 0.4);
 section{
     display: flex;
     align-items: center;
