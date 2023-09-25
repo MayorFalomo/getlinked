@@ -1,12 +1,16 @@
 import styled from 'styled-components'
 
 export const NavStyle = styled.div`
+    border-bottom: 1px solid  rgb(47, 51, 54, 0.4);
 nav{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding:25px;
-    border-bottom: 1px solid  rgb(47, 51, 54, 0.4);
+    width: 90%;
+    margin: 0 auto;
+        padding:25px;
+        /* border-bottom: 1px solid  rgb(47, 51, 54, 0.4); */
+
     h1{
         font-size: 35px;
         font-family: 'Clash Display';
